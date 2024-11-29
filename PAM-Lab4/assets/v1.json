@@ -1,0 +1,150 @@
+{
+  "banners": [
+    {
+      "title": "Choose Safe",
+      "description": "Enjoy up to 30% off on\n all spring products!",
+      "image": "https://img.freepik.com/fotos-premium/orgullo-diversidad-retrato-medicos-servicio-atencion-medica-integridad-hospital-trabajo-equipo-o-liderazgo-grupo-personal-medico-enfermeras-o-empleados-profesionales-mision-clinica-o-objetivos-fuerza-trabajo_952832-40573.jpg"
+    },
+    {
+      "title": "Autumn Specials",
+      "description": "Discover cozy and stylish\n outfits for the season.",
+      "image": "https://cdn.prod.website-files.com/60a0cd9e83c3b8837315f825/63aee8d292392d81905f7431_Doctors%20at%20HCA%20hospital%20performing%20surgery.webp"
+    },
+    {
+      "title": "Festive Deals",
+      "description": "Celebrate with exclusive\n offers on gifts and decor!",
+      "image": "https://cmbmed.com/uploads/2017/07/iStock-109721617-e1506694980209.jpg"
+    },
+    {
+      "title": "Membership Perks",
+      "description": "Join now and enjoy\n premium benefits!",
+      "image": "https://images.sbs.com.au/dims4/default/141dc7e/2147483647/strip/true/crop/8192x4608+0+428/resize/1280x720!/quality/90/?url=http%3A%2F%2Fsbs-au-brightspot.s3.amazonaws.com%2F3f%2F06%2F5ba956f04c0eb48033cfeee32777%2Fgettyimages-1370321233.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Neurology",
+      "icon": "https://cdn.iconscout.com/icon/free/png-256/free-neurology-icon-download-in-svg-png-gif-file-formats--brain-mind-human-brainstorming-hospital-facilities-pack-healthcare-medical-icons-4937290.png?f=webp&w=256"
+    },
+    {
+      "title": "OB-Gyn",
+      "icon": "https://cdn.iconscout.com/icon/premium/png-256-thumb/obstetrics-and-gynecology-6005798-5059328.png?f=webp&w=512"
+    },
+    {
+      "title": "Surgery",
+      "icon": "https://cdn.iconscout.com/icon/premium/png-512-thumb/surgery-1408631-1191466.png?f=webp&w=256"
+    },
+    {
+      "title": "Endocrinology",
+      "icon": "https://cdn.iconscout.com/icon/free/png-256/free-endocrinology-icon-download-in-svg-png-gif-file-formats--neurologist-gastroenterology-dermatologist-specialist-specialties-pack-healthcare-medical-icons-4077164.png?f=webp&w=256"
+    }
+
+  ],
+  "nearby_centers": [
+    {
+      "image": "https://media.istockphoto.com/id/600073876/photo/staff-in-busy-lobby-area-of-modern-hospital.jpg?s=612x612&w=0&k=20&c=-7NBIgsMELpCE9mUi-0Mc0F0bra29mQDcpodXC7S3Ro=",
+      "title": "Blue Ridge Medical Center",
+      "location_name": "45 Hilltop Lane, NY 12345",
+      "review_rate": 4.3,
+      "count_reviews": 98,
+      "distance_km": 2.0,
+      "distance_minutes": 8
+    },
+    {
+      "image": "https://www.stlukes.com.ph/assets/images/news/heartu1.jpg",
+      "title": "River Valley Health Clinic",
+      "location_name": "89 Meadow Road, TX 67890",
+      "review_rate": 4.5,
+      "count_reviews": 120,
+      "distance_km": 2.5,
+      "distance_minutes": 10
+    },
+    {
+      "image": "https://images.pexels.com/photos/3279209/pexels-photo-3279209.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "title": "Maple Grove Medical Hub",
+      "location_name": "56 Maple Street, IL 98765",
+      "review_rate": 4.4,
+      "count_reviews": 105,
+      "distance_km": 1.8,
+      "distance_minutes": 7
+    },
+    {
+      "image": "https://images.pexels.com/photos/1250655/pexels-photo-1250655.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "title": "Evergreen Family Health",
+      "location_name": "22 Evergreen Avenue, CA 11235",
+      "review_rate": 4.6,
+      "count_reviews": 110,
+      "distance_km": 1.9,
+      "distance_minutes": 9
+    },
+    {
+      "image": "https://images.pexels.com/photos/5452221/pexels-photo-5452221.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "title": "Cedarwood Wellness Center",
+      "location_name": "78 Cedar Lane, AZ 45678",
+      "review_rate": 4.7,
+      "count_reviews": 114,
+      "distance_km": 2.2,
+      "distance_minutes": 12
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSeJPa4xsHsGLpHvEbvI-VqAUgJbx3Ax2ooA&s",
+      "title": "Bright Horizons Health Institute",
+      "location_name": "101 Horizon Avenue, NV 56789",
+      "review_rate": 4.8,
+      "count_reviews": 125,
+      "distance_km": 2.0,
+      "distance_minutes": 11
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEH0IFAEVy_t7I3fA7Zm3hL3pd1k_8WjOg3A&s",
+      "title": "Vista Care Medical Center",
+      "location_name": "34 Vista Street, FL 78901",
+      "review_rate": 4.9,
+      "count_reviews": 130,
+      "distance_km": 1.5,
+      "distance_minutes": 6
+    }
+  ],
+  "doctors": [
+    {
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
+      "full_name": "Dr. Thomas Lee",
+      "type_of_doctor": "Neurologist",
+      "location_of_center": "Wellness Clinic A, USA",
+      "review_rate": 4.8,
+      "reviews_count": 60
+    },
+    {
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/028/287/555/small_2x/an-indian-young-female-doctor-isolated-on-green-ai-generated-photo.jpg",
+      "full_name": "Dr. Angela Smith",
+      "type_of_doctor": "Dermatologist",
+      "location_of_center": "SkinCare Hub, USA",
+      "review_rate": 4.7,
+      "reviews_count": 75
+    },
+    {
+      "image": "https://www.shutterstock.com/image-photo/man-portrait-doctor-white-coat-600nw-2280796707.jpg",
+      "full_name": "Dr. Robert Brown",
+      "type_of_doctor": "Orthopedic Surgeon",
+      "location_of_center": "Bone Health Center, USA",
+      "review_rate": 4.9,
+      "reviews_count": 80
+    },
+    {
+      "image": "https://t4.ftcdn.net/jpg/03/17/51/21/360_F_317512117_fpFkb0KHDFlp4ZH7WQCkrkwny8TqQxlw.jpg",
+      "full_name": "Dr. Olivia Wilson",
+      "type_of_doctor": "General Practitioner",
+      "location_of_center": "CarePoint Clinic, USA",
+      "review_rate": 4.6,
+      "reviews_count": 85
+    },
+    {
+      "image": "https://easy-peasy.ai/cdn-cgi/image/quality=80,format=auto,width=700/https://fdczvxmwwjwpwbeeqcth.supabase.co/storage/v1/object/public/images/c85c7269-6d7c-42ca-87e4-afcef6c51373/cd48c9c6-378a-44b1-a796-3259f754a8ef.png",
+      "full_name": "Dr. Susan Martinez",
+      "type_of_doctor": "Radiologist",
+      "location_of_center": "Imaging Center Pro, USA",
+      "review_rate": 4.7,
+      "reviews_count": 88
+    }
+  ]
+}

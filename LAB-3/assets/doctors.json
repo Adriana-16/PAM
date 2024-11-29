@@ -1,0 +1,20 @@
+[
+
+  {
+    "imageUrl": "https://plus.unsplash.com/premium_photo-1664475450083-5c9eef17a191?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZmVtYWxlJTIwZG9jdG9yfGVufDB8fDB8fHww",
+    "name": "Dr. Anna Brown",
+    "specialty": "Pediatrician",
+    "location": "Happy Kids Clinic",
+    "rating": 4.9,
+    "reviews": 140
+  },
+
+  {
+    "imageUrl": "https://images.unsplash.com/photo-1685022036259-04cf91a89af1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGZlbWFsZSUyMGRvY3RvcnxlbnwwfHwwfHx8MA%3D%3D",
+    "name": "Dr. Lisa Green",
+    "specialty": "General Practitioner",
+    "location": "Family Care Clinic",
+    "rating": 4.5,
+    "reviews": 78
+  }
+]
